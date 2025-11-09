@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+
+#as1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    background-color: yellow;
+    border-style: solid;
+}
+#as2{
+    color: blue;
+    text-align: center;
+    background-color: grey;
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    padding: orange;
+     border-style: solid;
+}
+#as3{
+    color: rgba(40, 151, 59, 0.268);
+    text-align: center;
+    background-color: rgb(216, 44, 156);
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+     border-style: solid;
+}
+#as4{
+    color: rgb(70, 87, 7);
+    text-align: center;
+    background-color: rgb(72, 128, 165);
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+     border-style: solid;
+}
+#as5{
+    color: maroon;
+    text-align: center;
+    background-color: rgb(35, 152, 72);
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+     border-style: solid;
+}
