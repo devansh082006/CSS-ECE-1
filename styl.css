@@ -1,0 +1,12 @@
+.box{
+    background-color: magenta;
+    border: 2px solid black;
+    height: 500px;
+    width:1000px
+
+    
+}
+img{
+    float: left;
+
+}
